@@ -1,0 +1,21 @@
+img {
+    width: 150px; height: 150px; 
+}
+td {
+    vertical-align: top;
+}
+tr {
+    vertical-align: top;
+}
+h1{
+    color: indigo; font-family: Times New Roman;
+}
+h3 {
+    color: black; font-family: Verdana;
+}
+hr{
+    border-width: 1px;
+    border-style: none;
+    border-color: gray;
+    width: 5%;
+}
